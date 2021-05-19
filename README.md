@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jainshauryaj
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Shaurya Jain
 - 🌱 I’m currently working as Data Scientist
-- 📫 How to reach me on jainshauyaj@gmail.com
+- 📫 Reach me on jainshauyaj@gmail.com
 
 <!---
 jainshauryaj/jainshauryaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
